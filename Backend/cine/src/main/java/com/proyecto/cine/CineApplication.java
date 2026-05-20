@@ -1,13 +1,13 @@
-package com.proyecto.peliculas;
+package com.proyecto.cine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PeliculasApplication {
+public class CineApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PeliculasApplication.class, args);
+		SpringApplication.run(CineApplication.class, args);
 	}
 
 }
